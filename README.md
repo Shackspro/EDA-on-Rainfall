@@ -90,10 +90,11 @@ This project demonstrates how real-world weather data can be used to predict rai
 ---
 
 ## Created By:
-Sahil Shukre
-Shivam Patil
-Bhavya Khatri
-Shubrat Parmar
+Sahil Shukre | 
+Shivam Patil | 
+Shubrat Parmar | 
+Bhavya Khatri |
+
 
 
 
